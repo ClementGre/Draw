@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.com/themsou/Draw.svg?branch=master)](https://travis-ci.com/themsou/Draw/)
 [![Release](https://img.shields.io/github/release/themsou/Draw.svg)](https://github.com/themsou/Draw/releases/)
 
 ## Draw [Avril-Juin 2018]
